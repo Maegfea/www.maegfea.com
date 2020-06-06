@@ -4,7 +4,7 @@ title: "Configuration initiale et 1ere connexion sur le Raspberry Pi."
 date: 2017-05-26 0:0:0 +0800
 categories: Technologie
 tags: raspbian raspberry-pi ssh
-img: /img/raspbian.jpg
+img: /assets/images/raspbian.jpg
 permalink: /configuration-initiale-1ere-connexion-raspberry-pi/
 ---
 Nous allons faire les premières configurations de notre Pi pour une première utilisation en tant que serveur.
@@ -19,7 +19,7 @@ Si vous souhaitez en savoir un peu plus sur cette attaque, voici un article fait
 
 Revenons-en à nos moutons.
 
-![image mouton](img/mouton.jpg)
+![image mouton](/assets/images/mouton.jpg)
 
 Nous allons créer un fichier ssh à la racine de la partition boot.
 Pas besoin d’écrire quoi que ce soit dans le fichier, un simple fichier nommé ssh vide suffira, j’attire votre attention sur le fait que le fichier ne doit pas avoir d’extension.
@@ -35,7 +35,7 @@ Normalement, le logiciel doit être déjà configuré pour votre plage d’adres
 
 Maintenant à vous de trouver l’adresse de votre Raspberry Pi dans le listing.
 
-![image angry](img/angry.png)
+![image angry](/assets/images/angry.png)
 
 Conseil de Sioux, si votre liste devait ne rien afficher et que le logiciel était déjà installé, faites sa mise à jour 😉
 
@@ -47,7 +47,7 @@ Maintenant que nous avons récupéré l’adresse IP, nous allons nous connecter
 
 Pour Putty, il suffit de rentrer le champ Hostname (Or Address IP).
 
-![image putty](img/putty.png)
+![image putty](/assets/images/putty.png)
 
 Pour la première connexion, le nom d’utilisateur sera pi et le mot de passe raspberry (tout en minuscule).
 

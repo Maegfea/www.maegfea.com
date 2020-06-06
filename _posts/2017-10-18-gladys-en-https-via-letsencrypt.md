@@ -4,7 +4,7 @@ title: "Gladys en HTTPS via Let's Encrypt."
 date: 2017-10-18 0:0:0 +0800
 categories: Domotique
 tags: gladys securite https domotique raspberry-pi
-img: /img/gladys.jpg
+img: /assets/images/gladys.jpg
 permalink: /gladys-https-disparaitre-avertissement-securite-letsencrypt/
 ---
 Aujourd'hui, nous allons voir comment activer le protocole HTTPS pour Gladys.

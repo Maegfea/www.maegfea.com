@@ -4,7 +4,7 @@ title: "Sécuriser basiquement Raspbian."
 date: 2017-05-29 0:0:0 +0800
 categories: Technologie
 tags: raspbian raspberry-pi
-img: /img/raspbian.jpg
+img: /assets/images/raspbian.jpg
 permalink: /securiser-basiquement-raspbian/
 ---
 Nous allons maintenant voir comment sécuriser basiquement notre Raspbian et faire nos premières configurations.
@@ -18,7 +18,7 @@ Une fois que votre Raspberry Pi a redémarré sur sa carte maintenant pleinement
 
 Cela peut mettre quelques secondes/minutes suivant votre connexion internet, votre Raspberry Pi redémarrera automatiquement à la fin de la procédure.
 
-![image horloge](/img/horloge.png)
+![image horloge](/assets/images/horloge.png)
 
 Maintenant que notre matériel est correctement mis à jour, nous allons passer à celle du système Raspbian pour cela :
 
@@ -27,7 +27,7 @@ Maintenant que notre matériel est correctement mis à jour, nous allons passer 
 Avec la première commande nous allons mettre à jour les dépôts afin d’avoir une liste des packages les plus récent, avec la seconde nous allons mettre à jour Raspbian ainsi que les différents packages déjà installés.
 Encore une fois, cela peut mettre un certain temps en fonction de votre connexion internet ainsi que suivant le nombre de package à mettre à jour.
 
-![image horloge](/img/horloge.png)
+![image horloge](/assets/images/horloge.png)
 
 # Configuration basique
 

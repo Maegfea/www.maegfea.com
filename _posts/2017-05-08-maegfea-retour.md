@@ -3,7 +3,7 @@
 title: "Je suis de retour !!"
 date: 2017-05-08 0:0:0 +0800
 categories: Technologie
-img: /img/raspbian.jpg
+img: /assets/images/raspbian.jpg
 permalink: /maegfea-retour/
 ---
 Me voilà de retour, pour vous jouer un mauvais tour. Ou pas 😀

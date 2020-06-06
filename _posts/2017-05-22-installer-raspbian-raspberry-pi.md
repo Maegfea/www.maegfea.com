@@ -4,7 +4,7 @@ title: "Installer Raspbian sur un Raspberry Pi facilement."
 date: 2017-05-22 0:0:0 +0800
 categories: Technologie
 tags: raspbian raspberry-pi ssh
-img: /img/raspbian.jpg
+img: /assets/images/raspbian.jpg
 permalink: /installer-raspbian-raspberry-pi/
 ---
 
@@ -34,7 +34,7 @@ Mais n’hésitez pas à venir partager avec nous dans les commentaires 😉
 
 Pour commencer, nous allons utiliser la distribution de base prévue sur Raspberry Pi, à savoir Raspbian.
 
-![image raspbian](img/raspbian.png)
+![image raspbian](/assets/images/raspbian.png)
 
 Il faudra commencer par télécharger l’image de Raspbian.
 Suivant le modèle de votre Pi, je vous conseillerais la version lite pour les versions 0 et 1 (A,B,B+):
@@ -59,11 +59,11 @@ Pour commencer, (après avoir branché notre carte µSD) on lance le logiciel et
 
 Ensuite, on récupère l’image (que l’on aura pris le soin de décompresser avant tout ça, par exemple avec 7-Zip) en cliquant sur l’icône de dossier. Il ne nous reste plus qu’à écrire sur la carte, attention une fois que vous aurez lancé la manipulation TOUTES les données dessus seront perdues.
 
-![image win32diskimager](img/win32diskimager.png)
+![image win32diskimager](/assets/images/win32diskimager.png)
 
 L’installation est relativement rapide sur une carte de catégorie 4 (compter une dizaine de minutes).
 
-![image horloge](img/horloge.png)
+![image horloge](/assets/images/horloge.png)
 
 Voilà c’est fini, nous pouvons maintenant insérer la carte dans le Raspberry Pi et le brancher.
 

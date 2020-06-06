@@ -4,7 +4,7 @@ title: "Présentation du Raspberry Pi et quelques idées d’utilisations"
 date: 2017-05-08 0:0:0 +0800
 categories: Technologie
 tags: raspbian raspberry-pi ssh
-img: /img/raspbian.jpg
+img: /assets/images/raspbian.jpg
 permalink: /presentation-raspberry-pi-idees/
 ---
 # Rapsberry Pi l’ordinateur à tout faire
@@ -21,7 +21,7 @@ Voici ses caractéristiques dans la version actuellement commercialisée (Rpi V3
 
 comparaison de taille Raspberry Pi vs CB
 
-![image rpi](/img/rpi.png)
+![image rpi](/assets/images/rpi.png)
 
 # Ses caractéristiques :
 
@@ -59,7 +59,7 @@ Une alimentation électrique d’au moins 2,5A est fortement recommandée pour l
 Ce qui veut dire que ton chargeur de tablette sera sûrement trop juste l’ami 😉 (souvent 2A).
 
 Si la carte devait ne pas être suffisamment alimentée un petit logo multicolore apparaîtra en haut à droite de l’écran.
-![image alim-faible](/img/alim-faible.png)
+![image alim-faible](/assets/images/alim-faible.png)
 Pourquoi j’attire votre attention sur ce « détail », vous me direz.
 
 Et bien tout simplement parce qu’un nombre trop important d’accès à la carte µSD avec une tension trop faible pourrait causer sa dégradation prématurée. Et croyez-moi, vous ne voulez pas perdre vos données à cause de ça 😉 (expérience déjà vécue 😥 )
