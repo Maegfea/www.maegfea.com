@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title: "Sécuriser basiquement Raspbian."
 date: 2017-05-29 0:0:0 +0800
 categories: Technologie

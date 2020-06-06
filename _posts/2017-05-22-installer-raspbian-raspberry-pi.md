@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title: "Installer Raspbian sur un Raspberry Pi facilement."
 date: 2017-05-22 0:0:0 +0800
 categories: Technologie

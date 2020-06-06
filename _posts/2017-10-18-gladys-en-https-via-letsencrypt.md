@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title: "Gladys en HTTPS via Let's Encrypt."
 date: 2017-10-18 0:0:0 +0800
 categories: Domotique

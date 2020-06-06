@@ -3,7 +3,6 @@
 title: "Je suis de retour !!"
 date: 2017-05-08 0:0:0 +0800
 categories: Technologie
-tags: raspbian raspberry-pi ssh
 img: /img/raspbian.jpg
 permalink: /maegfea-retour/
 ---

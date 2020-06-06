@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title: "Configuration initiale et 1ere connexion sur le Raspberry Pi."
 date: 2017-05-26 0:0:0 +0800
 categories: Technologie
