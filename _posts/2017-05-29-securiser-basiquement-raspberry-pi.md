@@ -18,7 +18,7 @@ Une fois que votre Raspberry Pi a redémarré sur sa carte maintenant pleinement
 
 Cela peut mettre quelques secondes/minutes suivant votre connexion internet, votre Raspberry Pi redémarrera automatiquement à la fin de la procédure.
 
-![image horloge](img/horloge.png)
+![image horloge](/img/horloge.png)
 
 Maintenant que notre matériel est correctement mis à jour, nous allons passer à celle du système Raspbian pour cela :
 
@@ -27,7 +27,7 @@ Maintenant que notre matériel est correctement mis à jour, nous allons passer 
 Avec la première commande nous allons mettre à jour les dépôts afin d’avoir une liste des packages les plus récent, avec la seconde nous allons mettre à jour Raspbian ainsi que les différents packages déjà installés.
 Encore une fois, cela peut mettre un certain temps en fonction de votre connexion internet ainsi que suivant le nombre de package à mettre à jour.
 
-![image horloge](img/horloge.png)
+![image horloge](/img/horloge.png)
 
 # Configuration basique
 
