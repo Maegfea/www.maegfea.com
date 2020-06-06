@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title: "Présentation du Raspberry Pi et quelques idées d’utilisations"
 date: 2017-05-08 0:0:0 +0800
 categories: Technologie
