@@ -4,7 +4,7 @@ title: "Présentation du Raspberry Pi et quelques idées d’utilisations"
 date: 2017-05-08 0:0:0 +0800
 categories: Technologie
 tags: raspbian raspberry-pi ssh
-#img: /img/raspbian.jpg
+img: /img/raspbian.jpg
 permalink: /presentation-raspberry-pi-idees/
 ---
 # Rapsberry Pi l’ordinateur à tout faire
