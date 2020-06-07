@@ -7,9 +7,3 @@ on:
 jobs:
    build-and-publish:
    runs-on: ubuntu-latest # This job uses a GitHub-hosted runner.
-
-# Also run this workflow whenever pushes are made to these branches, as before.
-  push:
-    branches:
-      # Change this to the branch where you keep your Jekyll code.
-      - www.maegfea.com
