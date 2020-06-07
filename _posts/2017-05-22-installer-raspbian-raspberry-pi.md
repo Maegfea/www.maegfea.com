@@ -8,11 +8,11 @@ img: /assets/images/raspbian.jpg
 permalink: /installer-raspbian-raspberry-pi/
 ---
 
-Voici ce que j’estime important de savoir pour bien commencer avec un Raspberry Pi et Raspbian.
+Voici ce que j’estime important de savoir pour bien commencer avec un [Raspberry Pi](https://amzn.to/2UiOumy) et Raspbian.
 
 # Première installation d’un Raspberry Pi pour les nuls
 
-Sur Raspberry Pi, de nombreux OS (Operating System, système d’exploitation) sont disponibles.
+Sur [Raspberry Pi](https://amzn.to/2UiOumy), de nombreux OS (Operating System, système d’exploitation) sont disponibles.
 Pour l’exemple, en voici quelques-uns :
 
 * Raspbian (https://www.raspbian.org/)
@@ -32,7 +32,7 @@ Mais n’hésitez pas à venir partager avec nous dans les commentaires 😉
 
 # Télécharger Raspbian
 
-Pour commencer, nous allons utiliser la distribution de base prévue sur Raspberry Pi, à savoir Raspbian.
+Pour commencer, nous allons utiliser la distribution de base prévue sur [Raspberry Pi](https://amzn.to/2UiOumy), à savoir Raspbian.
 
 ![image raspbian](/assets/images/raspbian.png)
 
@@ -65,6 +65,6 @@ L’installation est relativement rapide sur une carte de catégorie 4 (compter 
 
 ![image horloge](/assets/images/horloge.png)
 
-Voilà c’est fini, nous pouvons maintenant insérer la carte dans le Raspberry Pi et le brancher.
+Voilà c’est fini, nous pouvons maintenant insérer la carte dans le [Raspberry Pi](https://amzn.to/2UiOumy) et le brancher.
 
 Dans le prochain article, nous allons passer à la configuration initiale de Raspbian
