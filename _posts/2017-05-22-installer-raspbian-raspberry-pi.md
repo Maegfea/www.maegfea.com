@@ -15,12 +15,12 @@ Voici ce que j’estime important de savoir pour bien commencer avec un [Raspber
 Sur [Raspberry Pi](https://amzn.to/2UiOumy), de nombreux OS (Operating System, système d’exploitation) sont disponibles.
 Pour l’exemple, en voici quelques-uns :
 
-* Raspbian (https://www.raspbian.org/)
-* Pidora (http://pidora.ca/)
-* Ubuntu Mate / Snappy ( https://ubuntu-mate.org/raspberry-pi/ et https://developer.ubuntu.com/core/get-started#snappy-raspi2)
-* Win10Iot (https://developer.microsoft.com/fr-fr/windows/iot/Downloads.htm)
-* Open Elec (http://openelec.tv/)
-* OSMC (https://osmc.tv/)
+* [Raspbian](https://www.raspbian.org/)
+* [Pidora](http://pidora.ca/)
+* [Ubuntu Mate](https://ubuntu-mate.org/raspberry-pi/) / [Snappy](https://developer.ubuntu.com/core/get-started#snappy-raspi2)
+* [Win10Iot](https://developer.microsoft.com/fr-fr/windows/iot/Downloads.htm)
+* [Open Elec](http://openelec.tv/)
+* [OSMC](https://osmc.tv/)
 
 Ils sont différents, tous avec leur propre philosophie de base.
 
@@ -34,16 +34,16 @@ Mais n’hésitez pas à venir partager avec nous dans les commentaires 😉
 
 Pour commencer, nous allons utiliser la distribution de base prévue sur [Raspberry Pi](https://amzn.to/2UiOumy), à savoir Raspbian.
 
-![image raspbian](/assets/images/raspbian.png)
+![image raspbian](/assets/images/raspbian.jpg)
 
 Il faudra commencer par télécharger l’image de Raspbian.
 Suivant le modèle de votre Pi, je vous conseillerais la version lite pour les versions 0 et 1 (A,B,B+):
 
-https://raspbian-france.fr/download/raspbian_lite_latest.zip
+[https://raspbian-france.fr/download/raspbian_lite_latest.zip](https://raspbian-france.fr/download/raspbian_lite_latest.zip)
 
 Pour les Rpi 2 et 3, la version complète :
 
-https://raspbian-france.fr/download/raspbian_latest.zip
+[https://raspbian-france.fr/download/raspbian_latest.zip](https://raspbian-france.fr/download/raspbian_latest.zip)
 
 Les 2 versions peuvent aller sur tous les modèles de Raspberry Pi mais la lite n’est pas forcement la plus adaptée pour les versions 2,3 et inversement.
 
@@ -51,7 +51,7 @@ Les 2 versions peuvent aller sur tous les modèles de Raspberry Pi mais la lite 
 
 Pendant que nous récupérons l’image de l’OS nous allons télécharger Win32DiskImager :
 
-https://sourceforge.net/projects/win32diskimager/files/latest/download
+[https://sourceforge.net/projects/win32diskimager/files/latest/download](https://sourceforge.net/projects/win32diskimager/files/latest/download)
 
 L’installation est basique, suivant, suivant, terminé.
 
@@ -59,11 +59,11 @@ Pour commencer, (après avoir branché notre carte µSD) on lance le logiciel et
 
 Ensuite, on récupère l’image (que l’on aura pris le soin de décompresser avant tout ça, par exemple avec 7-Zip) en cliquant sur l’icône de dossier. Il ne nous reste plus qu’à écrire sur la carte, attention une fois que vous aurez lancé la manipulation TOUTES les données dessus seront perdues.
 
-![image win32diskimager](/assets/images/win32diskimager.png)
+![image win32diskimager](/assets/images/win32diskimager.jpg)
 
 L’installation est relativement rapide sur une carte de catégorie 4 (compter une dizaine de minutes).
 
-![image horloge](/assets/images/horloge.png)
+![image horloge](/assets/images/horloge.jpg)
 
 Voilà c’est fini, nous pouvons maintenant insérer la carte dans le [Raspberry Pi](https://amzn.to/2UiOumy) et le brancher.
 
