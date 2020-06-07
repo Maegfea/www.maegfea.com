@@ -2,9 +2,13 @@ on:
   # Automatically execute this workflow on a schedule.
   schedule:
     # POSIX-compatible cron syntax is supported.
-    - cron:  '0 * * * *' # Rebuild twice a day (every twelve hours on the hour).
+    - cron:  '5 * * * *' # Rebuild twice a day (every twelve hours on the hour).
+# Define a job named `build-and-publish` in your workflow.
+jobs:
+   build-and-publish:
+   runs-on: ubuntu-latest # This job uses a GitHub-hosted runner.
 
-  # Also run this workflow whenever pushes are made to these branches, as before.
+# Also run this workflow whenever pushes are made to these branches, as before.
   push:
     branches:
       # Change this to the branch where you keep your Jekyll code.
