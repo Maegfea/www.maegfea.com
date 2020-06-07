@@ -21,7 +21,7 @@ Voici ses caractéristiques dans la version actuellement commercialisée (Rpi V3
 
 comparaison de taille [Raspberry Pi](https://amzn.to/2UiOumy) vs CB
 
-![image rpi](/assets/images/rpi.png)
+![image rpi](/assets/images/rpi.jpg)
 
 # Ses caractéristiques :
 
@@ -59,7 +59,9 @@ Une alimentation électrique d’au moins 2,5A est fortement recommandée pour l
 Ce qui veut dire que ton chargeur de tablette sera sûrement trop juste l’ami 😉 (souvent 2A).
 
 Si la carte devait ne pas être suffisamment alimentée un petit logo multicolore apparaîtra en haut à droite de l’écran.
+
 ![image alim-faible](/assets/images/alim-faible.png)
+
 Pourquoi j’attire votre attention sur ce « détail », vous me direz.
 
 Et bien tout simplement parce qu’un nombre trop important d’accès à la carte µSD avec une tension trop faible pourrait causer sa dégradation prématurée. Et croyez-moi, vous ne voulez pas perdre vos données à cause de ça 😉 (expérience déjà vécue 😥 )
