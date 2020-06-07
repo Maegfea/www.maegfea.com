@@ -111,6 +111,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-bonsplans_archive:
-  type: liquid
-  path: /bonsplans/
