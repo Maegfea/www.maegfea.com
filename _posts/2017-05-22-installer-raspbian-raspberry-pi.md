@@ -59,11 +59,11 @@ Pour commencer, (après avoir branché notre carte µSD) on lance le logiciel et
 
 Ensuite, on récupère l’image (que l’on aura pris le soin de décompresser avant tout ça, par exemple avec 7-Zip) en cliquant sur l’icône de dossier. Il ne nous reste plus qu’à écrire sur la carte, attention une fois que vous aurez lancé la manipulation TOUTES les données dessus seront perdues.
 
-![image win32diskimager](/assets/images/win32diskimager.jpg)
+![image win32diskimager](/assets/images/win32diskimager.png)
 
 L’installation est relativement rapide sur une carte de catégorie 4 (compter une dizaine de minutes).
 
-![image horloge](/assets/images/horloge.jpg)
+![image horloge](/assets/images/horloge.png)
 
 Voilà c’est fini, nous pouvons maintenant insérer la carte dans le [Raspberry Pi](https://amzn.to/2UiOumy) et le brancher.
 
