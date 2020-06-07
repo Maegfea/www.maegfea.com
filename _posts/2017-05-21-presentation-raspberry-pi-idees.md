@@ -9,7 +9,7 @@ permalink: /presentation-raspberry-pi-idees/
 ---
 # Rapsberry Pi l’ordinateur à tout faire
 
-Pour le retour en ligne du site, le premier tuto sera l’installation d’un système d’exploitation sur Raspberry Pi (que je raccourcirais par Pi ou Rpi).
+Pour le retour en ligne du site, le premier tuto sera l’installation d’un système d’exploitation sur [Raspberry Pi](https://amzn.to/2UiOumy) (que je raccourcirais par Pi ou Rpi).
 
 Parce qu’il faut bien commencer quelque part et qu’en ce moment mes projets se basent principalement sur ce micro-ordinateur.
 
@@ -19,7 +19,7 @@ Pour les personnes qui ne seraient pas au courant, la carte Raspberry-Pi (né un
 
 Voici ses caractéristiques dans la version actuellement commercialisée (Rpi V3):
 
-comparaison de taille Raspberry Pi vs CB
+comparaison de taille [Raspberry Pi](https://amzn.to/2UiOumy) vs CB
 
 ![image rpi](/assets/images/rpi.png)
 
@@ -70,7 +70,7 @@ Vu le coût / l’encombrement, cela va nous permettre de monter/tester des proj
 
 Vous souhaitez vous lancer ? Voici ce que je conseille :
 
-* Raspberry Pi 3
+* [Raspberry Pi](https://amzn.to/2UiOumy) 3
 * Alimentation 3A
 * Boitier + dissipateurs
 
