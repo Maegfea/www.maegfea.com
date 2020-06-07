@@ -28,7 +28,7 @@ Nous allons commencer par activer la configuration avec un certificat auto-sign�
 
 > sudo ./enable-ssl-gladys.sh
 
-Comptez au moins 30min sur un Rpi3 pour la création du certificat.
+Comptez au moins 30min sur un [RPi3](https://amzn.to/2UiOumy)3 pour la création du certificat.
 Avec cette manipulation, nous allons valider que la configuration Nginx fonctionne correctement.
 Pendant que les certificats se génèrent, si cela n'est pas déjà fait, je vous invite à rediriger le port 443 de votre box sur l'IP interne de Gladys (au moins le temps du tuto).
 
