@@ -25,6 +25,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+future: true
 # Outputting
 permalink: /:title/
 paginate: 8 # amount of posts to show
@@ -66,9 +67,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Maegfea"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Maegfea"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/Maegfea"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/Maegfea"
@@ -78,9 +79,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Maegfea"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Maegfea"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/Maegfea"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/Maegfea"
