@@ -66,7 +66,7 @@ Pourquoi j’attire votre attention sur ce « détail », vous me direz.
 
 Et bien tout simplement parce qu’un nombre trop important d’accès à la carte µSD avec une tension trop faible pourrait causer sa dégradation prématurée. Et croyez-moi, vous ne voulez pas perdre vos données à cause de ça 😉 (expérience déjà vécue 😥 )
 
-Vu le coût / l’encombrement, cela va nous permettre de monter/tester des projets pour un coût minime et de rendre tout cela un peu plus WAF (Je te vois venir, non c’est pas le bruit du chien, go Wikipedia : ![](https://fr.wikipedia.org/wiki/Facteur_d%27acceptation_f%C3%A9minine)).
+Vu le coût / l’encombrement, cela va nous permettre de monter/tester des projets pour un coût minime et de rendre tout cela un peu plus WAF (Je te vois venir, non c’est pas le bruit du chien, go ![Wikipedia](https://fr.wikipedia.org/wiki/Facteur_d%27acceptation_f%C3%A9minine)).
 
 # Bien commencer
 
