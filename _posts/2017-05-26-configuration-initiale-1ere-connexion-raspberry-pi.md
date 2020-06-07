@@ -7,15 +7,15 @@ tags: raspbian raspberry-pi ssh
 img: /assets/images/raspbian.jpg
 permalink: /configuration-initiale-1ere-connexion-raspberry-pi/
 ---
-Nous allons faire les premières configurations de notre Pi pour une première utilisation en tant que serveur.
+Nous allons faire les premières configurations de notre [Pi](https://amzn.to/2UiOumy) pour une première utilisation en tant que serveur.
 
 # Activer SSH
 
 Avant de continuer, il faudra avoir installé Raspbian sur votre carte SD (voir ici : Article Précédent)
 Pour commencer nous allons réactiver le ssh afin de pouvoir faire toute l’administration à distance. (Je pars du principe que nous partons sur une configuration de type serveur).
-La fondation derrière Raspbian a décidé de désactiver par défaut le serveur SSH à cause des récentes attaques perpétrées grâce aux objets IoT non protégés (ex: camera avec mot de passe par défaut), vous pouvez voir une news ici : https://www.raspberrypi.org/blog/a-security-update-for-raspbian-pixel/.
+La fondation derrière Raspbian a décidé de désactiver par défaut le serveur SSH à cause des récentes attaques perpétrées grâce aux objets IoT non protégés (ex: camera avec mot de passe par défaut), vous pouvez voir une news ici : [https://www.raspberrypi.org/blog/a-security-update-for-raspbian-pixel/](https://www.raspberrypi.org/blog/a-security-update-for-raspbian-pixel/).
 
-Si vous souhaitez en savoir un peu plus sur cette attaque, voici un article fait par NextImpact : https://www.nextinpact.com/news/101871-dyn-on-fait-point-sur-attaque-ddos-qui-a-impactee-nombreux-sites.htm
+Si vous souhaitez en savoir un peu plus sur cette attaque, voici un article fait par NextImpact : [https://www.nextinpact.com/news/101871-dyn-on-fait-point-sur-attaque-ddos-qui-a-impactee-nombreux-sites.htm](https://www.nextinpact.com/news/101871-dyn-on-fait-point-sur-attaque-ddos-qui-a-impactee-nombreux-sites.htm)
 
 Revenons-en à nos moutons.
 
@@ -27,13 +27,13 @@ arborescence boot
 
 # Trouver le Raspberry Pi sur son réseau
 
-Pour nous connecter, une fois branché en Ethernet (câble carré à connecter sur votre box), il faudra déjà connaitre l’adresse IP de notre Raspberry Pi.
+Pour nous connecter, une fois branché en Ethernet (câble carré à connecter sur votre box), il faudra déjà connaitre l’adresse IP de notre [Raspberry Pi](https://amzn.to/2UiOumy).
 
-Pour cela, j’utilise un utilitaire qui scan mon réseau (AngryIpScanner : https://github.com/angryziber/ipscan/releases).
+Pour cela, j’utilise un utilitaire qui scan mon réseau [AngryIpScanner](https://github.com/angryziber/ipscan/releases).
 
 Normalement, le logiciel doit être déjà configuré pour votre plage d’adresse IP (il la détecte automatiquement suivant vos paramètres réseaux), on lance le scan en cliquant sur Start et magie tous nos équipements connectés apparaissent dans la liste.
 
-Maintenant à vous de trouver l’adresse de votre Raspberry Pi dans le listing.
+Maintenant à vous de trouver l’adresse de votre [Raspberry Pi](https://amzn.to/2UiOumy) dans le listing.
 
 ![image angry](/assets/images/angry.png)
 
@@ -41,7 +41,7 @@ Conseil de Sioux, si votre liste devait ne rien afficher et que le logiciel éta
 
 # Se connecter depuis votre ordinateur sur votre framboise
 
-Maintenant que nous avons récupéré l’adresse IP, nous allons nous connecter en SSH via le logiciel Putty sur Windows (Lien : https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) ou via un terminal sur MAC/Unix avec la commande suivante ssh :
+Maintenant que nous avons récupéré l’adresse IP, nous allons nous connecter en SSH via le logiciel [Putty sur Windows]( https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)) ou via un terminal sur MAC/Unix avec la commande suivante ssh :
 
 `utilisateur@adresseipdevtrepi -p lennumerodeportssh`
 
