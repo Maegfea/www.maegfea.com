@@ -5,7 +5,7 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  #- title: "Bons Plans"
-    #url: /categories/#bonsplans/
+  - title: "Bons Plans"
+    url: https://bonsplans.maegfea.com/
   #- title: "About"
     #url: /about/
