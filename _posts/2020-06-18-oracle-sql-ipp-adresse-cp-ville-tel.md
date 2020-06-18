@@ -38,7 +38,7 @@ WHERE
   )
 ```
 
-Ici on utilise NOMUSAGE car les femmes ont leurs noms de mariées de renseignés
+Requete identique pour les femmes non mariées car le nom d'usage est vide comme les hommes
 
 ```sql
 SELECT
@@ -68,7 +68,7 @@ WHERE
   )
 ```
 
-Requete identique pour les femmes non mariées car le nom d'usage est vide comme les hommes
+Ici on utilise 'nomusage' car les femmes ont leurs noms de mariées de renseignés
 
 ```sql
 SELECT
