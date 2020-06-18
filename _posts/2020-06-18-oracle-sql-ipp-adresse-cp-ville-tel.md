@@ -1,7 +1,7 @@
 ---
 #layout: post
 title: "Oracle SQL - Recuperer les informations suivant nom prenom date de naissance et sexe"
-date: 2020-06-18 00:00:00
+date: 2020-06-18 11:00:00
 categories: Technologie
 tags: oracle sql ipp adresse code postal ville telephone
 permalink: /oracle-sql-ipp-adresse-cp-ville-tel/
@@ -38,7 +38,7 @@ WHERE
   )
 ```
 
-Requete identique pour les femmes non mariées car le nom d'usage est vide comme les hommes
+Ici on utilise NOMUSAGE car les femmes ont leurs noms de mariées de renseignés
 
 ```sql
 SELECT
