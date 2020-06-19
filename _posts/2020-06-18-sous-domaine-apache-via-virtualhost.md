@@ -36,3 +36,5 @@ Pour cela utiliser la commande suivante :
 Il ne reste plus qu'à recharger la configuration du serveur apache via :
 
 `/etc/init.d/apache2 reload`
+
+En esperant que cela vous sera utile :)
