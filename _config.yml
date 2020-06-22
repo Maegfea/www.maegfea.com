@@ -22,6 +22,12 @@ github_username: Maegfea
 minimal_mistakes_skin: "dark"
 search: true
 
+# comments
+comments:
+  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname: maegfea-com
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
