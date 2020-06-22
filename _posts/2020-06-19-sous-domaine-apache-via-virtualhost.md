@@ -6,10 +6,8 @@ categories: Technologie
 tags: apache virtualhost domaine
 permalink: /sous-domaine-apache-virtualhost/
 ---
-Aujourd'hui, petit article pour partager la façon d'utiliser un sous domaine avec Apache2.
-
-Créer un fichier sans extension dans le dossier /etc/apache2/sites-available/
-
+Aujourd'hui, petit article pour partager la façon d'utiliser un sous domaine avec Apache2.   
+Créer un fichier sans extension dans le dossier /etc/apache2/sites-available/   
 ex : www pour le nom de domaine www.maegfea.com donne :
 
 `nano /etc/apache2/sites-available/www`
