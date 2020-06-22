@@ -41,7 +41,7 @@ Suivant le modèle de votre Pi, je vous conseillerais la version lite pour les v
 
 [https://raspbian-france.fr/download/raspbian_lite_latest.zip](https://raspbian-france.fr/download/raspbian_lite_latest.zip)
 
-Pour les Rpi 2 et 3, la version complète :
+Pour les [RPi](https://amzn.to/2UiOumy) 2 et 3, la version complète :
 
 [https://raspbian-france.fr/download/raspbian_latest.zip](https://raspbian-france.fr/download/raspbian_latest.zip)
 

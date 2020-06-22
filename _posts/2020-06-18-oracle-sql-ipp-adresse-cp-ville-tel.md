@@ -6,7 +6,7 @@ categories: Oracle SQL
 tags: oracle sql ipp adresse code postal ville telephone
 permalink: /oracle-sql-ipp-adresse-cp-ville-tel/
 ---
-Recuperation des informations pour une personne suivant sa date de naissance.
+Récupération des informations pour une personne suivant sa date de naissance.
 
 Recherche sur nom de naissance car pas de nom d'usage pour les hommes (il est vide dans la table pour les hommes).
 
@@ -38,7 +38,7 @@ WHERE
   )
 ```
 
-Requete identique pour les femmes non mariées car le nom d'usage est vide comme les hommes
+Requête identique pour les femmes non mariées car le nom d'usage est vide comme les hommes
 
 ```sql
 SELECT

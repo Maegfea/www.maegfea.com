@@ -35,4 +35,4 @@ Il ne reste plus qu'à recharger la configuration du serveur apache via :
 
 `/etc/init.d/apache2 reload`
 
-En esperant que cela vous sera utile :)
+En espérant que cela vous sera utile :)

@@ -8,7 +8,7 @@ img: /assets/images/raspbian.jpg
 permalink: /securiser-basiquement-raspbian/
 ---
 Nous allons maintenant voir comment sécuriser basiquement notre Raspbian et faire nos premières configurations.
-Pour commencer, je partirai du principe que vous avez suivi les étapes du tuto précèdent et donc que vous êtes connecté en SSH sur votre [Raspberry Pi](https://amzn.to/2UiOumy) (Article Précédent).
+Pour commencer, je partirai du principe que vous avez suivi les étapes du tuto précèdent et donc que vous êtes connecté en SSH sur votre [Raspberry Pi](https://amzn.to/2UiOumy) ([Article Précédent](/configuration-initiale-1ere-connexion-raspberry-pi/)).
 
 # Mise à jour matériel et logicielle
 

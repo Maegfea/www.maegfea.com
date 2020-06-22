@@ -42,7 +42,7 @@ Tout cela pour une consommation ridicule (compter entre 3€ et 5€ suivant le 
 
 # Quelques exemples d’utilisations
 
-Le Rpi est parfait pour tous les « petits » usages, voici les premiers exemples qui me viennent en tête :
+Le [Rpi](https://amzn.to/2UiOumy) est parfait pour tous les « petits » usages, voici les premiers exemples qui me viennent en tête :
 
 * Un NAS en branchant un disque dur USB
 * Une box domotique (ex : Gladys,Domoticz,…)

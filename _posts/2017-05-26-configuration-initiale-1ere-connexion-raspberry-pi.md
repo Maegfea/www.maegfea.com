@@ -12,7 +12,7 @@ Nous allons faire les premières configurations de notre [Pi](https://amzn.to/2U
 # Activer SSH
 
 Avant de continuer, il faudra avoir installé Raspbian sur votre carte SD (voir ici : Article Précédent)
-Pour commencer nous allons réactiver le ssh afin de pouvoir faire toute l’administration à distance. (Je pars du principe que nous partons sur une configuration de type serveur).
+Pour commencer nous allons réactiver le SSH afin de pouvoir faire toute l’administration à distance. (Je pars du principe que nous partons sur une configuration de type serveur).
 La fondation derrière Raspbian a décidé de désactiver par défaut le serveur SSH à cause des récentes attaques perpétrées grâce aux objets IoT non protégés (ex: camera avec mot de passe par défaut), vous pouvez voir une news ici : [https://www.raspberrypi.org/blog/a-security-update-for-raspbian-pixel/](https://www.raspberrypi.org/blog/a-security-update-for-raspbian-pixel/).
 
 Si vous souhaitez en savoir un peu plus sur cette attaque, voici un article fait par NextImpact : [https://www.nextinpact.com/news/101871-dyn-on-fait-point-sur-attaque-ddos-qui-a-impactee-nombreux-sites.htm](https://www.nextinpact.com/news/101871-dyn-on-fait-point-sur-attaque-ddos-qui-a-impactee-nombreux-sites.htm)
@@ -21,7 +21,7 @@ Revenons-en à nos moutons.
 
 ![image mouton](/assets/images/mouton.jpg)
 
-Nous allons créer un fichier ssh à la racine de la partition boot.
+Nous allons créer un fichier SSH à la racine de la partition boot.
 Pas besoin d’écrire quoi que ce soit dans le fichier, un simple fichier nommé ssh vide suffira, j’attire votre attention sur le fait que le fichier ne doit pas avoir d’extension.
 arborescence boot
 
@@ -41,7 +41,7 @@ Conseil de Sioux, si votre liste devait ne rien afficher et que le logiciel éta
 
 # Se connecter depuis votre ordinateur sur votre framboise
 
-Maintenant que nous avons récupéré l’adresse IP, nous allons nous connecter en SSH via le logiciel [Putty sur Windows]( https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)) ou via un terminal sur MAC/Unix avec la commande suivante ssh :
+Maintenant que nous avons récupéré l’adresse IP, nous allons nous connecter en SSH via le logiciel [Putty sur Windows]( https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)) ou via un terminal sur MAC/Unix avec la commande suivante SSH :
 
 `utilisateur@adresseipdevtrepi -p lennumerodeportssh`
 
