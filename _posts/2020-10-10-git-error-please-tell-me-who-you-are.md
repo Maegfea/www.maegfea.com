@@ -7,7 +7,7 @@ tags: git
 permalink: /git-error-please-tell-me-who-you-are/
 ---
 
-### Please Tell me who you are
+*** Please tell me who you are.
 
 
   git config --global user.email "you@example.com"
